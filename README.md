@@ -31,7 +31,7 @@
 
 <!-- ===================== STREAK ===================== -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=imshekhuu&theme=radical&hide_border=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=imshekhuu&limit=5&theme=calm_pink&combine_all_yearly_contributions=true" />
 </p>
 
 ---
