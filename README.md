@@ -12,17 +12,24 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=imshekhuu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imshekhuu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imshekhuu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ANKITKUMAR1809&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITKUMAR1809&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imshekhuu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imshekhuu&theme=radical&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imshekhuu&bg_color=0d1117&color=00F5FF&line=7F00FF&point=00F5A0&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00F5FF,100:00F5A0&height=120&section=footer" />
 </p>
 
 ---
