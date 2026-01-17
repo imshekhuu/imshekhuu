@@ -20,17 +20,22 @@
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imshekhuu&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshekhuu&layout=compact&theme=radical&hide_border=true" />
-</p>
 
+![](https://github-readme-stats.vercel.app/api?username=imshekhuu&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=imshekhuu&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imshekhuu&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-<!-- ===================== STREAK ===================== -->
-![](https://github-contributor-stats.vercel.app/api?username=imshekhuu&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
+
+![](https://github-profile-trophy.vercel.app/?username=imshekhuu&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+<!-- ===================== QUOTE ===================== -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 ---
 
@@ -41,18 +46,11 @@
 
 ---
 
-
-<!-- ===================== QUOTE ===================== -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00F5FF,100:00F5A0&height=120&section=footer" />
 </p>
 
 
-
 [![](https://visitcount.itsvg.in/api?id=imshekhuu&icon=0&color=10)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
