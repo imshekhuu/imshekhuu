@@ -54,3 +54,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00F5FF,100:00F5A0&height=120&section=footer" />
 </p>
+
+
+
+[![](https://visitcount.itsvg.in/api?id=imshekhuu&icon=0&color=10)](https://visitcount.itsvg.in)
