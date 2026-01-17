@@ -30,9 +30,7 @@
 ---
 
 <!-- ===================== STREAK ===================== -->
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=imshekhuu&limit=5&theme=calm_pink&combine_all_yearly_contributions=true" />
-</p>
+![](https://github-contributor-stats.vercel.app/api?username=imshekhuu&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
 
 ---
 
