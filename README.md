@@ -21,14 +21,18 @@
 ---
 
 
-![](https://github-readme-stats.vercel.app/api?username=imshekhuu&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=imshekhuu&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imshekhuu&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=imshekhuu&theme=calm_pink&hide_border=false" />
+</p>
+
 
 ---
 
 
-![](https://github-profile-trophy.vercel.app/?username=imshekhuu&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=imshekhuu&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
 
 ---
 
