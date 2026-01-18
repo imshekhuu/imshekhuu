@@ -1,6 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Divya%20%20%20S.%20Shekhawat&fontSize=44&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Divy%20%20%20S.%20Shekhawat&fontSize=44&fontColor=ffffff" />
 </p>
 
 
