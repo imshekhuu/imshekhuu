@@ -15,7 +15,7 @@
 
 <!-- ===================== TECH STACK ===================== -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,django,docker,express,fastapi,flask,git,github,js,py,pytorch,tensorflow,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,django,docker,express,fastapi,flask,git,github,js,py,pytorch,tensorflow,opencv,&theme=dark" />
 </p>
 
 ---
