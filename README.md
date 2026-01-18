@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Exploring+Data+Science;DSA+%7C+System+Design+Focused;Backend+%7C+Real-Time+Apps;Neural+Network." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Exploring+AI-Driven+Systems;DSA+%7C+System+Design+Focused;Backend+%7C+Real-Time+Apps;Neural+Networks." />
 </p>
 
 ---
