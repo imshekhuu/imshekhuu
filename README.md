@@ -6,7 +6,6 @@
 
 
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Exploring+AI-Driven+Systems;DSA+%7C+System+Design+Focused;Backend+%7C+Real-Time+Apps;Neural+Networks." />
 </p>
@@ -22,15 +21,17 @@
 
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=imshekhuu&theme=calm_pink&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=imshekhuu&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imshekhuu&show_icons=true&theme=radical" />
 </p>
+
 
 
 ---
 
-
 <p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=imshekhuu&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4" />
+  <img width="350"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshekhuu&layout=donut&theme=radical" />
 </p>
 
 
